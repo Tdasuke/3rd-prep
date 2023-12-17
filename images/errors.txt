@@ -1,0 +1,4 @@
+[6/22/2023, 10:46:37 AM] layer "logo_bg.jpg": Duplicate path: logo_bg.jpg
+[6/22/2023, 10:46:44 AM] layer "logo_bg.jpg": Duplicate path: logo_bg.jpg
+[6/22/2023, 10:46:50 AM] layer "logo_bg.jpg": Duplicate path: logo_bg.jpg
+[6/22/2023, 10:46:57 AM] layer "logo_bg.jpg": Duplicate path: logo_bg.jpg
